@@ -1,8 +1,8 @@
-# Code repository for Kukacka and Kristoufek (2022)
+# Code repository for Kukacka and Kristoufek (2023)
 
 ---
 
-Kukacka, J., Kristoufek, L. (September 2022), Fundamental and speculative components of the cryptocurrency pricing dynamics, [DOI](http://dx.doi.org/10.2139/ssrn.4133394).
+Kukacka, J., Kristoufek, L. (2023). Fundamental and speculative components of the cryptocurrency pricing dynamics. Financial Innovation, 9 (61), pp. 1-23, [DOI](https://doi.org/10.1186/s40854-023-00465-7).
 
 This codebase is using the R language, and it is initialized as a Git.
 
